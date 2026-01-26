@@ -1,0 +1,7 @@
+{ "scripts": {
+  "start":"node assignment.js"
+},
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
